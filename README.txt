@@ -2,7 +2,7 @@
 
 This folder contains all of the files needed to replicate the empirical results and create the figures in “Elite Coordination and Popular Protest: The Joint Effect on Democratic Change” by Yuko Sato and Michael Wahman, Democratization.
 
-If you have questions, please contact ysato@mail.missouri.edu
+If you have questions, please contact yuko.sato@gu.se
 
 The folder contains the following files:
 
